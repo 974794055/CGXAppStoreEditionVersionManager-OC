@@ -23,7 +23,6 @@ typedef void(^CheckVersionBlock)(CGXAppStoreInfoModel *appInfo);
  *  containCtrl: 提示框显示在哪个控制器上
  */
 +(void)checkNewEditionWithAppID:(NSString *)appID ctrl:(UIViewController *)containCtrl;
-
 /**
  *  检测新版本(使用自定义提示框)
  *

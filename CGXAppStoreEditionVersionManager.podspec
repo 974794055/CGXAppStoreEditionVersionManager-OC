@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = "CGXAppStoreEditionVersionManager"    #存储库名称
-s.version      = "1.0.2"      #版本号，与tag值一致
+s.version      = "1.1.0"      #版本号，与tag值一致
 s.summary      = "AppStore版本管理器"  #简介
 s.description  = "AppStore版本管理器封装，快捷使用"  #描述
 s.homepage     = "https://github.com/974794055/CGXAppStoreEditionVersionManager-OC"      #项目主页，不是git地址
